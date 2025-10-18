@@ -1,0 +1,15 @@
+!**/Assets
+
+**/Library/
+**/Logs/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/MemoryCaptures/
+**/UserSettings/ (if working in a team)
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.unityproj
