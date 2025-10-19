@@ -1,5 +1,3 @@
-!**/Assets
-
 **/Library/
 **/Logs/
 **/Temp/
@@ -7,7 +5,6 @@
 **/Build/
 **/Builds/
 **/MemoryCaptures/
-**/UserSettings/ (if working in a team)
 *.csproj
 *.sln
 *.userprefs
