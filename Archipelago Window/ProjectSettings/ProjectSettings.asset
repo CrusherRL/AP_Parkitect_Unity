@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: 8928428e2e871684f91963ae75895bd8
+  productGUID: d0ea2bae0f137e549a6947af85b77c6d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -153,13 +153,12 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier:
-    Standalone: com.Archipelago-Window
+  applicationIdentifier: {}
   buildNumber:
-    Standalone: 0.0.1
+    Standalone: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 1
+  overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
@@ -682,11 +681,11 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
-  cloudProjectId: 3bf1a33c-a96c-46b5-91ad-e8ae298b502e
+  activeInputHandler: 0
+  cloudProjectId: 76b71b08-45eb-44e8-abe6-a30817c1eabd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Archipelago Window
+  projectName: Archipelago Window 2025-10-22_17-59-20
   organizationId: messerjack96
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
