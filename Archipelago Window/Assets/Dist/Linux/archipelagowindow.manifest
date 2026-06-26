@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 26501426
+CRC: 1874910888
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ac52fea8d21444eb93ba79c29ab71753
+    Hash: 6a70784caba4a2982c4647e9a7179b30
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b09cceffb93a8efa567ed8825e5ff2b6
+    Hash: 33f650630dbecff1c96263011d63e73b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,9 +38,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
 - Class: 115
@@ -112,6 +118,10 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
